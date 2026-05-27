@@ -16,6 +16,10 @@ div{
 }
 
 div.master{
+  height:300px;
+  max-height:500px;
+  width:400px;
+  max-width:600px; 
   display:flex;
   flex-direction:row;
   align-items:flex-end;
