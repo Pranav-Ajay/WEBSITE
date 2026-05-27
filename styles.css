@@ -5,4 +5,5 @@ div{
   display:flex;
   align-items:flex-start;
   height:500vh;
+  padding:30px;
   background-color:#FFF0F5;}
