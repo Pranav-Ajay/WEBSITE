@@ -32,7 +32,7 @@ div.a{
   max-width:700px;  
   outline:10px solid black;
   display:flex;
-  flex-direction:column;
+  flex-direction:row;
   background-color:#F5F5F5;
   padding:20px;
   align-items:center;}
