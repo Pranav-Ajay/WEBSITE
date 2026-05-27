@@ -17,39 +17,45 @@ div{
 }
 
 div.master{
-  height:100px;
-  max-height:300px;
-  width:1500px;
-  max-width:1800px; 
   display:flex;
   flex-direction:row;
   align-items:flex-end;
-  padding:20px;}
+  gap:20px;
+
+  width:100%;
+  max-width:1800px;
+
+  padding:20px;
+}
 
 div.a{
-  border-radius:30px;
-  height:50px;
-  max-height:200px;
-  width:500px;
-  max-width:700px;  
+  flex:1;
+
+  min-height:120px;
+
   display:flex;
-  flex-direction:row;
-  background-color:#F5F5F5;
+  align-items:center;
+
   padding:20px;
-  align-items:center;}
+
+  background-color:#F5F5F5;
+  border-radius:30px;
+}
 
 div.b{
-  border-radius:30px;
-  height:50px;
-  max-height:200px;
-  width:600px;
-  max-width:800px; 
+  flex:1.2;
+
+  min-height:120px;
+
   display:flex;
   flex-direction:column;
-  background-color:#F5F5F5;
-  padding:20px;
-  align-items:center;}
+  justify-content:center;
 
+  padding:20px;
+
+  background-color:#F5F5F5;
+  border-radius:30px;
+}
 img{
   border-radius:70px;
   height:120px;
