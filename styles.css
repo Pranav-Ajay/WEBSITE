@@ -16,8 +16,8 @@ div{
 }
 
 div.master{
-  height:300px;
-  max-height:500px;
+  height:100px;
+  max-height:300px;
   width:1500px;
   max-width:1800px; 
   display:flex;
@@ -26,8 +26,8 @@ div.master{
   padding:20px;}
 
 div.a{
-  height:200px;
-  max-height:400px;
+  height:100px;
+  max-height:300px;
   width:500px;
   max-width:700px;  
   outline:10px solid black;
@@ -38,8 +38,8 @@ div.a{
   align-items:center;}
 
 div.b{
-  height:200px;
-  max-height:400px;
+   height:100px;
+  max-height:300px;
   width:600px;
   max-width:800px; 
   outline:10px solid black;
