@@ -15,6 +15,7 @@ div{
 }
 
 div.a{
+  outline:10px solid black;
   display:flex;
   flex-direction:row;
   background-color:#F5F5F5;
@@ -22,6 +23,7 @@ div.a{
   align-items:center;}
 
 div.b{
+  outline:10px solid black;
   display:flex;
   flex-direction:row;
   background-color:#F5F5F5;
