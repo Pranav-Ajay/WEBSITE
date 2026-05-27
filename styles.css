@@ -4,6 +4,6 @@ body{
 div{
   display:flex;
   align-items:flex-start;
-  height:500vh;
+  height:100vh;
   padding:30px;
   background-color:#FFF0F5;}
