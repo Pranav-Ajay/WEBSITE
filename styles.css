@@ -79,6 +79,6 @@ footer{
   display:flex;
   position:fixed;
   bottom:0px;
-  justify-content:center;
   align-items:center;
+  background-color:#E6E6FA;
 }
