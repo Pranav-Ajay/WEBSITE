@@ -45,6 +45,20 @@ div.master{
   padding:20px;
 }
 
+div.d{
+    flex:1;
+
+  min-height:120px;
+
+  display:flex;
+  align-items:center;
+  flex-direction:row;
+
+  padding:20px;
+
+  background-color:#F5F5F5;
+  border-radius:30px;}
+
 div.a{
   flex:1;
 
