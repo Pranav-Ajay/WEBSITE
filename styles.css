@@ -79,5 +79,5 @@ footer{
   display:flex;
   position:absolute;
   bottom:0px;
-  align-items:center;
+  justify-content:center;
 }
