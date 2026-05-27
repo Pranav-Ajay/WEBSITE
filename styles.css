@@ -22,8 +22,8 @@ div.master{
   align-items:flex-end;
   gap:20px;
 
-  width:100%;
-  max-width:1800px;
+  width:50%;
+  max-width:1000px;
 
   padding:20px;
 }
