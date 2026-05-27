@@ -3,10 +3,12 @@ body{
 
 div{
   display:flex;
-  align-items:flex-start;
-  width:30px;
-  height:1000px;
-  max-height:100%;
-  padding:30px;
   flex-direction:column;
-  background-color:#EBF2FA;}
+  align-items:flex-start;
+
+  width:250px;
+  min-height:100vh;
+
+  padding:30px;
+  background-color:#EBF2FA;
+}
