@@ -15,6 +15,12 @@ div{
   background-color:#E6E6FA;
 }
 
+div.master{
+  display:flex;
+  flex-direction:row;
+  align-items:flex-end;
+  padding:20px;}
+
 div.a{
   outline:10px solid black;
   display:flex;
