@@ -38,6 +38,10 @@ div.a{
   align-items:center;}
 
 div.b{
+  height:200px;
+  max-height:400px;
+  width:250px;
+  max-width:450px; 
   outline:10px solid black;
   display:flex;
   flex-direction:column;
