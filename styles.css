@@ -18,8 +18,8 @@ div{
 div.master{
   height:300px;
   max-height:500px;
-  width:400px;
-  max-width:600px; 
+  width:1500px;
+  max-width:1800px; 
   display:flex;
   flex-direction:row;
   align-items:flex-end;
@@ -28,8 +28,8 @@ div.master{
 div.a{
   height:200px;
   max-height:400px;
-  width:250px;
-  max-width:450px;  
+  width:500px;
+  max-width:700px;  
   outline:10px solid black;
   display:flex;
   flex-direction:column;
@@ -40,8 +40,8 @@ div.a{
 div.b{
   height:200px;
   max-height:400px;
-  width:250px;
-  max-width:450px; 
+  width:600px;
+  max-width:800px; 
   outline:10px solid black;
   display:flex;
   flex-direction:column;
