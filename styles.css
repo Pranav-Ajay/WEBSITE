@@ -6,4 +6,5 @@ div{
   align-items:flex-start;
   height:100vh;
   padding:30px;
+  flex-direction:column;
   background-color:#FFF0F5;}
