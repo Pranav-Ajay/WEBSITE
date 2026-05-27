@@ -1,6 +1,8 @@
 body{
   font-family:Poppins,sans-serif;
   background-color:#FFFAFA;
+  displau:flex;
+  flex-direction:row;
   margin:0;}
 
 div{
