@@ -4,5 +4,5 @@ body{
 div{
   display:flex;
   align-items:flex-start;
-  height:100%;
+  height:500vh;
   background-color:#FFF0F5;}
