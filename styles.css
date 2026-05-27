@@ -13,7 +13,13 @@ div{
   padding:30px;
   background-color:#99FFFF;
 }
-.a{
+div.A{
+  display:flex;
+  flex-direction:row;
+  padding:20px;
+  align-items:center;}
+
+div.a{
   background-color:#F5F5F5}
-.b{
+div.b{
   background-color:#F5F5F5}
