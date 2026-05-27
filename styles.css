@@ -16,6 +16,20 @@ div{
   background-color:#E6E6FA;
 }
 
+div.king{
+  position:fixed;
+  left:40%;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  gap:20px;
+
+  width:80%;
+  max-width:1000px;
+
+  padding:5px;
+}
+
 div.master{
   display:flex;
   flex-direction:row;
