@@ -17,7 +17,7 @@ div{
 }
 
 div.king{
-  position:fixed;
+  position:relative;
   left:40%;
   top:20%;
   display:flex;
