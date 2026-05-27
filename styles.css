@@ -19,11 +19,11 @@ div.a{
   flex-direction:row;
   background-color:#F5F5F5;
   padding:20px;
-  justify-content:center;}
+  align-items:center;}
 
 div.b{
   display:flex;
   flex-direction:row;
   background-color:#F5F5F5;
   padding:20px;
-  justify-content:center;}
+  align-items:center;}
