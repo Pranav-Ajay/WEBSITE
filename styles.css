@@ -17,7 +17,8 @@ div.A{
   display:flex;
   flex-direction:row;
   padding:20px;
-  align-items:center;}
+  justify-content:center;
+  outline:10px solid black;}
 
 div.a{
   background-color:#F5F5F5}
