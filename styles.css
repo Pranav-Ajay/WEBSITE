@@ -78,6 +78,6 @@ img{
 footer{
   display:flex;
   position:absolute;
-  bottom:0px;
+  bottom:0%;
   justify-content:center;
 }
