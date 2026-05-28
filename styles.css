@@ -82,3 +82,7 @@ footer{
   align-items:center;
   background-color:#E6E6FA;
 }
+
+.y{
+  position:fixed;
+  left:40%;}
