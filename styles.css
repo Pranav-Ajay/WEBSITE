@@ -111,23 +111,26 @@ footer{
   top:0;
   left:40%;}
 
-.teacher{
-  width:100%;
-  max-width:1000px;
-  display:flex;
-  flex-direction:column;
-  justify-content:center;
-  align-items:center;
-}
-
 .o{
   font-family:Poppins,sans-serif;
   background-color:#FFFAFA;
 
   display:flex;
   flex-direction:column;
+  align-items:center;
 
-  margin:0;}
+  margin:0;
+}
+
+.teacher{
+  width:100%;
+  max-width:1000px;
+
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+}
 
 .tab{
   width:100%;
