@@ -1,6 +1,7 @@
 body{
   font-family:Poppins,sans-serif;
   background-color:#FFFAFA;
+  min-height:100vh;
 
   display:flex;
   flex-direction:row;
