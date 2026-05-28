@@ -127,6 +127,11 @@ footer{
 
   margin:0;}
 
+.tab{
+  width:100%;
+  max-width:500px;
+  min-height:130vh;}
+
 
 
 
