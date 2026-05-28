@@ -78,7 +78,7 @@ img{
 footer{
   display:flex;
   position:absolute;
-  bottom:0%;
-  justify-content:center;
+  bottom:0;
+  align-items:center;
   background-color:#E6E6FA;
 }
