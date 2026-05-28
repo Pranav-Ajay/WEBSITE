@@ -108,6 +108,7 @@ footer{
 
 .y{
   position:fixed;
+  top:0;
   left:40%;}
 
 .teacher{
@@ -116,6 +117,7 @@ footer{
   dsiplay:flex;
   flex-direction:column;
   justify-content:center;
+  align-items:center;
 }
 
 .o{
