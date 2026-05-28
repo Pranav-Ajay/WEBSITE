@@ -105,6 +105,8 @@ footer{
   left:40%;}
 
 .teacher{
+  width:100%;
+  max-width:400px;
   dsipaly:flex;
   flex-direction:column;
   align-items:center;
