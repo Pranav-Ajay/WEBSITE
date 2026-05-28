@@ -135,7 +135,7 @@ footer{
   min-height:50vh;}
 
 .a,.d,.b,.c:hover{
-  transform:scale(0.3);
+  transform:scale(1.01);
 }
 
 
