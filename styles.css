@@ -118,4 +118,14 @@ footer{
   align-items:center;
 }
 
+.o{
+  font-family:Poppins,sans-serif;
+  background-color:#FFFAFA;
+  min-height:100vh;
+
+  display:flex;
+  flex-direction:column;
+
+  margin:0;}
+
 
