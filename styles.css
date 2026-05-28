@@ -103,3 +103,11 @@ footer{
 .y{
   position:fixed;
   left:40%;}
+
+.teacher{
+  dsipaly:flex;
+  flex-direction:column;
+  align-items:center;
+}
+
+
