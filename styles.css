@@ -134,6 +134,8 @@ footer{
   max-width:500px;
   min-height:130vh;}
 
-
+.a,.d,.b,.c:hover{
+  transform:scale(0.3);
+}
 
 
